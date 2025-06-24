@@ -67,7 +67,7 @@ This dashboard provides real-time insights into:
 
 **Abdul Junaid**  
 Aspiring Data Analyst with a passion for turning raw data into compelling stories using tools like Power BI and Excel.  
-🌐 [LinkedIn](https://www.linkedin.com/in/abdul-junaid-pcmad)
+🌐 [LinkedIn](https://www.linkedin.com/in/abduljunaidpcmad)
 
 ---
 
